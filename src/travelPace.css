@@ -1,0 +1,13 @@
+.travel-pace-selector { margin: 12px 0 22px; padding: 18px; border: 1px solid #dbe4d6; border-radius: 14px; background: #f1f5ed; }
+.travel-pace-selector h3 { margin: 0 0 12px; color: #315449; font-family: inherit; font-size: 13px; font-weight: 600; }
+.travel-pace-selector > div { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+.travel-pace-selector button { display: grid; gap: 5px; padding: 12px 10px; border: 1px solid #d8e3d5; border-radius: 10px; background: #fafbf6; color: #587565; text-align: left; cursor: pointer; }
+.travel-pace-selector button.selected { border-color: #537b66; background: #e3eddf; box-shadow: 0 0 0 1px #537b6618; }
+.travel-pace-selector button span { font-size: 12px; font-weight: 650; }
+.travel-pace-selector button small { font-size: 10px; line-height: 1.6; }
+.travel-pace-selector p { margin: 12px 0 0; color: #7b9180; font-size: 10px; line-height: 1.7; }
+.travel-pace-status { margin: 18px 0 0; padding: 14px 16px; display: flex; gap: 12px; align-items: center; border: 1px solid #d6e1d2; border-radius: 12px; background: #edf3e7; color: #315449; }
+.travel-pace-status > div { display: grid; gap: 5px; flex: 1; }
+.travel-pace-status strong { font-size: 12px; }
+.travel-pace-status small { color: #778b78; font-size: 10px; line-height: 1.6; }
+.travel-pace-status button { display: flex; align-items: center; gap: 5px; padding: 8px 11px; border: 1px solid #bfd0ba; border-radius: 8px; background: #fffef9; color: #315449; cursor: pointer; font-size: 11px; }

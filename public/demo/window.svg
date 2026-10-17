@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="750" viewBox="0 0 1000 750">
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#b4d5dc"/><stop offset="1" stop-color="#e9f1e9"/></linearGradient><linearGradient id="wall"><stop stop-color="#e6d5bd"/><stop offset="1" stop-color="#f8efe0"/></linearGradient></defs>
+<path fill="url(#wall)" d="M0 0h1000v750H0z"/><path fill="#725f4c" d="M205 85h590v485H205z"/><path fill="url(#sky)" d="M225 105h550v445H225z"/>
+<path fill="#b5c8c7" d="m225 375 135-175 115 153 130-142 170 183v156H225z"/><path fill="#f7faf5" d="m285 297 75-97 68 91-47-17-21-30-28 51zM556 266l49-55 77 82-47-12-29-28-21 25z"/>
+<path fill="#83b4bb" d="M225 410h550v140H225z"/><path fill="#91a9a5" d="m225 472 130-40 80 22 123-35 217 66v65H225z"/>
+<path fill="#f2e7d6" d="M490 105h18v445h-18zM225 320h550v15H225z"/><path fill="#aa8b6c" d="M180 550h640v26H180zM0 650h1000v100H0z"/>
+<ellipse fill="#725f4c" opacity=".15" cx="530" cy="678" rx="210" ry="25"/><path fill="#ede8d9" d="M430 585h105v91q-52 30-105 0z"/><path fill="none" stroke="#ede8d9" stroke-width="15" d="M535 602q58-4 38 43-12 18-38 8"/>
+<text x="44" y="710" fill="#fff9ec" font-family="sans-serif" font-size="20" letter-spacing="4">ELSEWHERE · ILLUSTRATED PREVIEW</text></svg>
